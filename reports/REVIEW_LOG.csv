@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe bị cắt ở mép dưới giữa ảnh,added,Chỉ khoanh vùng phần xe nhìn thấy trong ảnh
+1,frame_0107.jpg,xe thứ 3 bên trái phía ảnh,added,Pre-label bị thiếu xe nên thêm box
+1,frame_0182.jpg,tách box của car_49 và car_50,edited,Đánh dấu occlusion cho car_49 và tách hai xe
